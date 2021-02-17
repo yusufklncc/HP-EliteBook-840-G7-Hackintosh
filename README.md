@@ -25,29 +25,27 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 <!-- omit in toc -->
 ## Hardware
 
-| **LENOVO** | Detail                                                  |
+| **HP** | Detail                                                  |
 | ------------------- | ------------------------------------------- |
-| Model Name      | Lenovo E570      |
-| CPU              | Intel(R) Core(TM) i5-7200U CPU @ 2.40GHz Kaby Lake             |
+| Model Name      | HP Elitebook 840 G7      |
+| CPU              | Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz (max 4.20Ghz) Comet Lake             |
 | RAM           | 8 GB 2400 MHz DDR4    |
-| Graphic Card | Intel(R) HD Graphics 620 (1 GB)                     |
-| Wi-Fi             | DW1820A 802.11ac |
-| Ses       | Conexant CX20753/4                       |
+| Graphic Card | Intel® UHD Graphics for 10th Gen Intel® Processors                     |
+| Wi-Fi             | BCM94360CS2 |
+| Ses       | Realtek ALC285                       |
 
 ## What are working
 
 - Turbo boost and CPU frequency stage.
 
-- Intel UHD Graphics 620 
+- Intel® UHD Graphics for 10th Gen Intel® Processors 
 
-- Audio Conexant CX20753/4 
-  - layout-id: `15`
+- Audio Realtek ALC285 
+  - layout-id: `11`
 
-- Realtek Ethernet RTL8111
+- BCM94360CS2 Wi-Fi and Bluetooth (Airdrop, Handoff..)
 
-- DW1820A Wi-Fi and Bluetooth (Airdrop, Handoff..)
-
-- USB 3.0 and Type-C
+- USB 3.0 and Type-C Ports (Port Mapping
 
 - Brightness control
 
@@ -55,13 +53,13 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
 - Battery status
 
-- S3 Sleep / Wake
-
-- S4 Hibernation / Wake
-
 - Camera
 
 - Fn shortcut keys
 
+## What aren't working
+
+- Sleep / Wake
+- Built-in Microphone
  
 With OpenCore Configrator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 14.1
