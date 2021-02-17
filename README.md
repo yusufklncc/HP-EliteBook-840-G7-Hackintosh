@@ -18,7 +18,7 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 <details>
 <summary>Big Sur</summary>
 
-![](https://i.loli.net/2021/02/17/svA1zWm6CrGBDu3.png)
+![]()
 
 </details>
 
