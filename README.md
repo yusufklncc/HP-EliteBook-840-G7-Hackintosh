@@ -3,7 +3,7 @@
 
 <h3> 
     English |
-    <a href="">Türkçe</a>
+    <a href="https://github.com/relaxewdy/HP-EliteBook-840-G7-Hackintosh/blob/main/README-tr.md">Türkçe</a>
 </h3>
 
 <img align="right" src="https://i.loli.net/2021/02/17/KqIEFsp6SjneLTY.png" width="200px" alt="preview">
