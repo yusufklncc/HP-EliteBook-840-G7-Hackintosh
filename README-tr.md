@@ -43,7 +43,7 @@ HP EliteBook 840 G7 için OpenCore config dosyası.
   - layout-id: `11`
   - 3.5mm Jak Girişi
 - BCM94360CS2 Wi-Fi ve Bluetooth (Airdrop, Handoff..)
-- USB 3.0 and Type-C Portları (Port Mapping)
+- USB 3.0 and Type-C Portları (Port Mapping, ThunderBolt 3 ile birlikte)
 - Touchpad (14 harekette çalışıyor)
 - Batarya Durumu
 - Kamera
