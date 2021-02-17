@@ -2,7 +2,7 @@
 #  HP EliteBook 840 G7 üzerinde macOS
 
 <h3> 
-    İngilizce |
+    <a href="https://github.com/relaxewdy/HP-EliteBook-840-G7-Hackintosh/blob/main/README.md">İngilizce |</a>
     <a href="https://github.com/relaxewdy/HP-EliteBook-840-G7-Hackintosh/edit/main/README-tr.md">Türkçe</a>
 </h3>
 
