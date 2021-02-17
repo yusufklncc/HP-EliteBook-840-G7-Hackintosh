@@ -43,7 +43,7 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
   - layout-id: `21`
   - 3.5mm Combojack
 - BCM94360CS2 Wi-Fi and Bluetooth (Airdrop, Handoff..)
-- USB 3.0 and Type-C Ports (Port Mapping
+- USB 3.0 and Type-C Ports (Port Mapping with ThunderBolt 3)
 - Touchpad (14 gestures are working)
 - Battery status
 - Camera
