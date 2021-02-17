@@ -8,7 +8,7 @@
 
 <img align="right" src="https://i.loli.net/2021/02/17/KqIEFsp6SjneLTY.png" width="200px" alt="preview">
 
-OpenCore config for Hackintosh OpenCore Lenovo E570.
+OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
 [![macOS](https://img.shields.io/badge/macOS-11.0.1-orange)](https://www.apple.com/tr/macos/big-sur/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.6.6-9cf)](https://github.com/acidanthera/OpenCorePkg)
