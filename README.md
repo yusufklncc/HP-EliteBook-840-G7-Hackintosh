@@ -62,5 +62,6 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
 - Sleep / Wake
 - Built-in Microphone
+- Fingerprint
  
 With OpenCore Configrator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 14.1
