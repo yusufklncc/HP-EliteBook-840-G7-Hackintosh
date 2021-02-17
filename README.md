@@ -30,7 +30,7 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 | Model Name      | HP Elitebook 840 G7      |
 | CPU              | Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz (max 4.20Ghz) Comet Lake             |
 | RAM           | 8 GB 2400 MHz DDR4    |
-| Graphic Card | Intel® UHD Graphics for 10th Gen Intel® Processors                     |
+| Graphic Card | Intel® UHD Graphics 620                     |
 | Wi-Fi             | BCM94360CS2 |
 | Ses       | Realtek ALC285                       |
 
@@ -38,7 +38,7 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
 - Turbo boost and CPU frequency stage.
 
-- Intel® UHD Graphics for 10th Gen Intel® Processors 
+- Intel® UHD Graphics 620
 
 - Audio Realtek ALC285 
   - layout-id: `11`
