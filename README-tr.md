@@ -23,7 +23,7 @@ HP EliteBook 840 G7 için OpenCore config dosyası.
 </details>
 
 <!-- omit in toc -->
-## Hardware
+## Donanım
 
 | **HP** | Detaylar                                                 |
 | ------------------- | ------------------------------------------- |
