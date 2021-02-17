@@ -42,6 +42,7 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
 - Audio Realtek ALC285 
   - layout-id: `11`
+  - 3.5mm Combojack
 
 - BCM94360CS2 Wi-Fi and Bluetooth (Airdrop, Handoff..)
 
