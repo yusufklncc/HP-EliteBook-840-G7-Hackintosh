@@ -39,23 +39,17 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 - Turbo boost and CPU frequency stage.
 
 - Intel® UHD Graphics 620
+  - Brightness control
 
 - Audio Realtek ALC285 
   - layout-id: `11`
   - 3.5mm Combojack
 
 - BCM94360CS2 Wi-Fi and Bluetooth (Airdrop, Handoff..)
-
 - USB 3.0 and Type-C Ports (Port Mapping
-
-- Brightness control
-
 - Touchpad (14 gestures are working)
-
 - Battery status
-
 - Camera
-
 - Fn shortcut keys
 
 ## What aren't working
