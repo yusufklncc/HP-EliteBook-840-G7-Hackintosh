@@ -3,7 +3,7 @@
 
 <h3> 
     English |
-    <a href="https://github.com/relaxewdy/Thinkpad-E570-Hackintosh-OpenCore/blob/main/README-tr.md">Türkçe</a>
+    <a href="">Türkçe</a>
 </h3>
 
 <img align="right" src="https://i.loli.net/2021/02/17/KqIEFsp6SjneLTY.png" width="200px" alt="preview">
@@ -32,7 +32,7 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 | RAM           | 8 GB 2400 MHz DDR4    |
 | Graphic Card | Intel® UHD Graphics 620                     |
 | Wi-Fi             | BCM94360CS2 |
-| Ses       | Realtek ALC285                       |
+| Sound       | Realtek ALC285                       |
 
 ## What are working
 
