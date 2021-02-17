@@ -40,7 +40,7 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 - Intel® UHD Graphics 620
   - Brightness control
 - Audio Realtek ALC285 
-  - layout-id: `11`
+  - layout-id: `21`
   - 3.5mm Combojack
 - BCM94360CS2 Wi-Fi and Bluetooth (Airdrop, Handoff..)
 - USB 3.0 and Type-C Ports (Port Mapping
