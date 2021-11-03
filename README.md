@@ -16,8 +16,6 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
   <img src="https://img.shields.io/badge/OpenCore-0.7.5-12AED6"/> </a>
 <a href="https://github.com/yusfklncc/HP-EliteBook-840-G7-Hackintosh/issues"> 
   <img src="https://img.shields.io/github/issues/yusfklncc/HP-EliteBook-840-G7-Hackintosh"/> </a>
-<a href="https://github.com/yusfklncc/HP-EliteBook-840-G7-Hackintosh/commits/master"> 
-  <img src="https://img.shields.io/github/last-commit/yusfklncc/HP-EliteBook-840-G7-Hackintosh"/> </a>
 <a href="https://damnthattelevision.com/Contact">
    <img src="https://img.shields.io/badge/%40-Contact-FFF27D"> </a>
 </p>
