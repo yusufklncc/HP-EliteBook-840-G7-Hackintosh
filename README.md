@@ -5,7 +5,7 @@
     English
 </h3>
 
-<img align="right" src="https://i.loli.net/2021/02/17/KqIEFsp6SjneLTY.png" width="200px" alt="preview">
+<img align="right" src="https://github.com/yusfklncc/HP-EliteBook-840-G7-Hackintosh/blob/main/HPEliteBook840G7.png" width="200px" alt="preview">
 
 OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
