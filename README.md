@@ -9,7 +9,7 @@
 
 OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
-<p align="center">
+<p align="left">
 <a href="https://www.apple.com/macos/big-sur/">
   <img src="https://img.shields.io/badge/macOS-Big_Sur_v11.6.1-red.svg"/> </a>
 <a href="https://github.com/acidanthera/OpenCorePkg">
@@ -20,7 +20,7 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
    <img src="https://img.shields.io/badge/%40-Contact-FFF27D"> </a>
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://www.apple.com/macos/big-sur/">
   <img src="https://img.shields.io/badge/macOS-Big_Sur_v11.6.1-red.svg"/> </a>
 <a href="https://github.com/acidanthera/OpenCorePkg">
