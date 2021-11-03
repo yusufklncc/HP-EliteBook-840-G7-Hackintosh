@@ -12,9 +12,10 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 [![macOS](https://img.shields.io/badge/macOS-11.6.1-orange)](https://www.apple.com/tr/macos/big-sur/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.4-9cf)](https://github.com/acidanthera/OpenCorePkg)
 [![release](https://img.shields.io/badge/download-lastest%20version-blue.svg)](https://github.com/yusfklncc/HP-EliteBook-840-G7-Hackintosh/releases)
-
-
-
+.
+.
+.
+.
 ## Screenshot
 <details>
 <summary>Big Sur</summary>
