@@ -9,13 +9,28 @@
 
 OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
-[![macOS](https://img.shields.io/badge/macOS-11.6.1-orange)](https://www.apple.com/tr/macos/big-sur/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.4-9cf)](https://github.com/acidanthera/OpenCorePkg)
-[![release](https://img.shields.io/badge/download-lastest%20version-blue.svg)](https://github.com/yusfklncc/HP-EliteBook-840-G7-Hackintosh/releases)
-.
-.
-.
-.
+<p align="center">
+<a href="https://www.apple.com/macos/big-sur/">
+  <img src="https://img.shields.io/badge/macOS-Big_Sur_v11.6.1-red.svg"/> </a>
+<a href="https://github.com/acidanthera/OpenCorePkg">
+  <img src="https://img.shields.io/badge/OpenCore-0.7.5-12AED6"/> </a>
+<a href="https://github.com/yusfklncc/HP-EliteBook-840-G7-Hackintosh/issues"> 
+  <img src="https://img.shields.io/github/issues/yusfklncc/HP-EliteBook-840-G7-Hackintosh"/> </a>
+<a href="https://damnthattelevision.com/Contact">
+   <img src="https://img.shields.io/badge/%40-Contact-FFF27D"> </a>
+</p>
+
+<p align="center">
+<a href="https://www.apple.com/macos/big-sur/">
+  <img src="https://img.shields.io/badge/macOS-Big_Sur_v11.6.1-red.svg"/> </a>
+<a href="https://github.com/acidanthera/OpenCorePkg">
+  <img src="https://img.shields.io/badge/OpenCore-0.7.5-12AED6"/> </a>
+<a href="https://github.com/yusfklncc/HP-EliteBook-840-G7-Hackintosh/issues"> 
+  <img src="https://img.shields.io/github/issues/yusfklncc/HP-EliteBook-840-G7-Hackintosh"/> </a>
+<a href="https://damnthattelevision.com/Contact">
+   <img src="https://img.shields.io/badge/%40-Contact-FFF27D"> </a>
+</p>
+
 ## Screenshot
 <details>
 <summary>Big Sur</summary>
