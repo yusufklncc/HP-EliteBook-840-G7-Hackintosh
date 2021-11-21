@@ -1,10 +1,6 @@
 <!-- omit in toc -->
 # macOS on HP EliteBook 840 G7
 
-<h3> 
-    English
-</h3>
-
 <img align="right" src="https://github.com/yusfklncc/HP-EliteBook-840-G7-Hackintosh/blob/main/HPEliteBook840G7.png" width="350px" alt="preview">
 
 OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
