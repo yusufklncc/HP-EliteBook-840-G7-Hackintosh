@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # macOS on HP EliteBook 840 G7
 
-<img align="right" src="https://github.com/yusfklncc/HP-EliteBook-840-G7-Hackintosh/blob/main/HPEliteBook840G7.png" width="350px" alt="preview">
+<img align="right" src="https://github.com/yusufklncc/HP-EliteBook-840-G7-Hackintosh/blob/main/HPEliteBook840G7.png" width="350px" alt="preview">
 
 OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
@@ -10,8 +10,8 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
   <img src="https://img.shields.io/badge/macOS-Big_Sur_v11.6.1-red.svg"/> </a>
 <a href="https://github.com/acidanthera/OpenCorePkg">
   <img src="https://img.shields.io/badge/OpenCore-0.7.5-12AED6"/> </a>
-<a href="https://github.com/yusfklncc/HP-EliteBook-840-G7-Hackintosh/issues"> 
-  <img src="https://img.shields.io/github/issues/yusfklncc/HP-EliteBook-840-G7-Hackintosh"/> </a>
+<a href="https://github.com/yusufklncc/HP-EliteBook-840-G7-Hackintosh/issues"> 
+  <img src="https://img.shields.io/github/issues/yusufklncc/HP-EliteBook-840-G7-Hackintosh"/> </a>
 <a href="https://damnthattelevision.com/Contact">
    <img src="https://img.shields.io/badge/%40-Contact-FFF27D"> </a>
 </p>
@@ -72,5 +72,5 @@ With OpenCore Configurator you should definitely set your SMBIOS settings becaus
 
 <h1 align="center"> Donate - Bağış </h1>
 <p align="center">
-<a href="https://github.com/yusfklncc/yusfklncc/blob/main/Donate%20-%20Ba%C4%9F%C4%B1%C5%9F.md">
-  <img src="https://github.com/yusfklncc/yusfklncc/blob/main/Resources/Donate.png" width="300">
+<a href="https://github.com/yusufklncc/yusufklncc/blob/main/Donate%20-%20Ba%C4%9F%C4%B1%C5%9F.md">
+  <img src="https://github.com/yusufklncc/yusufklncc/blob/main/Resources/Donate.png" width="300">
