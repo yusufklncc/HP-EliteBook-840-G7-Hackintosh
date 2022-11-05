@@ -12,9 +12,9 @@
 <a href="https://github.com/acidanthera/OpenCorePkg/releases">
   <img src="https://img.shields.io/badge/OpenCore-0.8.5-9cf" width="155"/> </a>
 <a href="https://github.com/yusufklncc/HP-EliteBook-840-G7-Hackintosh/releases">
-  <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="125"/> </a>
+  <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="120"/> </a>
 <a href="https://github.com/yusufklncc/HP-EliteBook-840-G7-Hackintosh/issues"> 
-  <img src="https://img.shields.io/github/issues/yusufklncc/HP-EliteBook-840-G7-Hackintosh" width="150"/> </a>
+  <img src="https://img.shields.io/github/issues/yusufklncc/HP-EliteBook-840-G7-Hackintosh" width="145"/> </a>
 </p>
 <p align="center">
 <a href="https://t.me/yusufklncc">
