@@ -1,7 +1,7 @@
 <h1 align="center"> macOS on HP EliteBook 840 G7 </h1>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/yusufklncc/HP-EliteBook-840-G7-Hackintosh/blob/main/macOS%20Big%20Sur.png">
 </p>
 
 <h4 align="center"> OpenCore config for Hackintosh HP EliteBook 840 G7 </h4>
