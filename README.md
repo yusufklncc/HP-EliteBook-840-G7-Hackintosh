@@ -18,11 +18,13 @@
 </p>
 <p align="center">
 <a href="https://t.me/yusufklncc">
-  <img src="https://img.shields.io/badge/-@yusufklncc-2CA5E0?logo=Telegram&logoColor=blue" width="150"/> </a>
+  <img src="https://img.shields.io/badge/-@yusufklncc-2CA5E0?logo=Telegram&logoColor=white" width="150"/> </a>
 <a href="https://www.youtube.com/c/yusufklncc">
   <img src="https://img.shields.io/badge/-@yusufklncc-red?logo=YouTube&logoColor=white" width="150"/> </a>
 <a href="https://www.paypal.com/paypalme/sevenpay">
-  <img src="https://img.shields.io/badge/-@sevenpay-2CA5E0?logo=PayPal&logoColor=red" width="140"/> </a>
+  <img src="https://img.shields.io/badge/-@sevenpay-white?logo=PayPal&logoColor=blue" width="140"/> </a>
+<a href="https://www.buymeacoffee.com/yusufklncc">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="150"/> </a>
 
 ## Contents
   - [Screenshots](https://github.com/yusufklncc/HP-EliteBook-840-G7-Hackintosh#screenshots-)
@@ -83,12 +85,12 @@ Battery status   |  ✅
 Camera   |  ✅    
 Shutdown / Reboot   |  ✅  
 Fn shortcut keys   |  ✅  
+S3 Sleep / Wake   |  ?
+S4 Hibernation / Wake   |  ?
 
 ## What's not working  💻
 Type | Status
 :---------|:--------- 
-S3 Sleep / Wake   |  ❌
-S4 Hibernation / Wake   |  ❌
 Built-in Microphone   |  ❌
 Fingerprint Reader   |  ❌
  
@@ -104,27 +106,20 @@ Kext | Info
 :---------|:---------
 [Lilu](https://github.com/acidanthera/Lilu) | [Global] An open source kernel extension bringing a platform for arbitrary kext, library, and program patching throughout the system for macOS.
 [VirtualSMC](https://github.com/acidanthera/VirtualSMC) | [SMC] Advanced Apple SMC emulator in the kernel. Requires Lilu for full functioning.
-[WhateverGreen](https://github.com/acidanthera/WhateverGreen) | [Graphics] Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs.
-[USBMapG7Dock](https://www.youtube.com/watch?v=rlTDHkPzjAk&t=654s) | [USB] Kext to inject mapped USB Ports.
-[AppleALC](https://github.com/acidanthera/AppleALC) | [Audio] An open source kernel extension enabling native macOS HD audio for not officially supported codecs without any filesystem modifications. 
 [SMCBatteryManager](https://github.com/acidanthera/VirtualSMC) | [Battery] a member of VirtualSMC that parses battery info.
 [SMCLightSensor](https://github.com/acidanthera/VirtualSMC) | [Sensor] a member of VirtualSMC that activate light sensor.
 [SMCProcessor](https://github.com/acidanthera/VirtualSMC) | [Processor] a member of VirtualSMC that provides power info of processor temperature.
+[WhateverGreen](https://github.com/acidanthera/WhateverGreen) | [Graphics] Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs.
+[AppleALC](https://github.com/acidanthera/AppleALC) | [Audio] An open source kernel extension enabling native macOS HD audio for not officially supported codecs without any filesystem modifications. 
 [CodecCommander](https://github.com/Dolnor/EAPD-Codec-Commander) | [Audio] 
-[VoodooI2C](https://github.com/VoodooI2C/VoodooI2C) | [Touchpad] VoodooI2C is a project consisting of macOS kernel extensions that add support for I2C bus devices.
-[VoodooPS2Controller](https://github.com/acidanthera/VoodooPS2) | [PS2] Contains updated Voodoo PS/2 Controller, improved Keyboard & Synaptics TouchPad.
-[AirportItlwm](https://github.com/OpenIntelWireless/itlwm) | [Wi-Fi] An Intel Wi-Fi Adapter Kernel Extension for macOS.
-[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | [Intel Bluetooth] Kernel Extension that uploads Intel Wireless Bluetooth Firmware to provide native Bluetooth in macOS.
-[IntelBTPatcher](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | [Intel Bluetooth] A Lilu base patcher that fix Intel Bluetooth on Bigsur, Catalina, Mojave, High sierra etc, tested with Bigsur and Catalina all working good.
-[IntelBluetoothInjector](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | [Intel Bluetooth] Injecting intel bluetooth firmware on Big Sur-.
-[BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM) | [Bluetooth] Injecting bluetooth firmware on Monterey+.
+[CPUFriend](https://github.com/acidanthera/CPUFriend) | [Processor] A Lilu plug-in for dynamic power management data injection.
+[CPUFriendDataProvider](https://github.com/corpnewt/CPUFriendFriend) | [Processor] A CPUFriend plug-in for CPU power management.
 [NVMeFix](https://github.com/acidanthera/NVMeFix) | [SSD] NVMeFix is a set of patches for the Apple NVMe storage driver, IONVMeFamily.
 [HibernationFixup](https://github.com/acidanthera/HibernationFixup) | [Hibernate] An open source kernel extension providing a sync between RTC variables and NVRAM.
 [RTCMemoryFixup](https://github.com/acidanthera/RTCMemoryFixup#rtcmemoryfixup) | [RTC] An open source kernel extension providing a way to emulate some offsets in CMOS (RTC) memory. It can help you to avoid some conflicts between macOS AppleRTC and firmware/BIOS of your PC.
-[CPUFriend](https://github.com/acidanthera/CPUFriend) | [Processor] A Lilu plug-in for dynamic power management data injection.
-[CPUFriendDataProvider](https://github.com/corpnewt/CPUFriendFriend) | [Processor] A CPUFriend plug-in for CPU power management.
-[NoTouchID](https://github.com/al3xtjames/NoTouchID) | [Fingerprint] Lilu plugin for disabling Touch ID support.
-
+[VoodooI2C](https://github.com/VoodooI2C/VoodooI2C) | [Touchpad] VoodooI2C is a project consisting of macOS kernel extensions that add support for I2C bus devices.
+[VoodooPS2Controller](https://github.com/acidanthera/VoodooPS2) | [PS2] Contains updated Voodoo PS/2 Controller, improved Keyboard & Synaptics TouchPad.
+[USBMapG7Dock](https://www.youtube.com/watch?v=rlTDHkPzjAk&t=654s) | [USB] Kext to inject mapped USB Ports.
   
 ## SSDTs Used
   
