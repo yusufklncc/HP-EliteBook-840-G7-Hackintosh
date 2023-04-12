@@ -14,7 +14,7 @@
 <a href="https://github.com/yusufklncc/HP-EliteBook-840-G7-Hackintosh/releases">
   <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="120"/> </a>
 <a href="https://github.com/yusufklncc/HP-EliteBook-840-G7-Hackintosh/issues"> 
-  <img src="https://img.shields.io/github/issues/yusufklncc/HP-EliteBook-840-G7-Hackintosh" width="145"/> </a>
+  <img src="https://img.shields.io/github/issues/yusufklncc/HP-EliteBook-840-G7-Hackintosh" width="135"/> </a>
 </p>
 <p align="center">
 <a href="https://t.me/yusufklncc">
