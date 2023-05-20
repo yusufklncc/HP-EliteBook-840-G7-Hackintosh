@@ -85,7 +85,7 @@ Fingerprint Reader   |  ❌
   
 Type | Info | Status
 :---------|:---------|:----------
-SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS settings and ROM value for iCloud and Apple services. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
+SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS MBP16,2 and ROM value for iCloud and Apple services. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
 
 
 ## Credits
@@ -93,8 +93,6 @@ SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS settin
  - [Dortania](https://dortania.github.io) for developing OpenCore.
  - [Apple](https://www.apple.com) for macOS.
  - [Acidanthera](https://github.com/acidanthera) for most of the kexts.
- - [RehabMan](https://github.com/RehabMan) for battery patches.
- - [Sniki](https://github.com/Sniki) for USB kext.
  - And anyone else that helped to develop and improve hackintoshing.
 
 <h1 align="center"> Donate - Bağış </h1>
